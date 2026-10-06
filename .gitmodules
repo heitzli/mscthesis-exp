@@ -1,0 +1,3 @@
+[submodule "avro-ipc-exp"]
+	path = avro-ipc-exp
+	url = git@github.com:heitzli/avro-ipc-exp.git
