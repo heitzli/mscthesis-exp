@@ -1,3 +1,6 @@
 [submodule "avro-ipc-exp"]
 	path = avro-ipc-exp
 	url = git@github.com:heitzli/avro-ipc-exp.git
+[submodule "component-prototyp-msc-thesis"]
+	path = component-prototyp-msc-thesis
+	url = git@github.com:heitzli/component-prototyp-msc-thesis.git
