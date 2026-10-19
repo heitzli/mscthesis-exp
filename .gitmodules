@@ -4,3 +4,6 @@
 [submodule "component-prototyp-msc-thesis"]
 	path = component-prototyp-msc-thesis
 	url = git@github.com:heitzli/component-prototyp-msc-thesis.git
+[submodule "wiredtiger-exp"]
+	path = wiredtiger-exp
+	url = git@github.com:heitzli/wiredtiger-exp.git
